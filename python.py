@@ -1,3 +1,3 @@
 dic = {
-    "name" : "arryan",
+    "name" : "arryan singh",
 }
